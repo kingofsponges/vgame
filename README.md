@@ -1,2 +1,2 @@
 # vgame
-A "game engine" that is entirely just VGA text mode
+A "game engine" that is literally VGA text mode
